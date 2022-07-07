@@ -21,7 +21,7 @@ npm install
 ```sh
 npm run dev
 ```
-![vue compiled picture](../vue-project/screenshotpage.png)
+![vue compiled picture](/screenshotpage.png)
 
 ### Compile and Minify for Production
 
