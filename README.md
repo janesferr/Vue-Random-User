@@ -28,3 +28,5 @@ npm run dev
 ```sh
 npm run build
 ```
+###Deployed using Netlify:
+https://sunny-duckanoo-dae15c.netlify.app/
